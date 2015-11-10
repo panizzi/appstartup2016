@@ -1,7 +1,7 @@
 # Prima lezione:
 Martedì 10 novembre 2015
 
-Argomenti trattati oggi:
+### Argomenti trattati oggi:
 * descrizione del corso
 * cenni di informatica di base:
   * processore, 
@@ -36,3 +36,8 @@ Argomenti trattati oggi:
  * creazione di codice associato alla pressione del bottone (action)
  * modifica della label nell'action del bottone
  * lancio della simulazione: quando avviene il cambiamento della label?
+
+### Slide della lezione: 
+
+### Progetto PrimoAppStartup: 
+ 
