@@ -1,9 +1,10 @@
 # Prima lezione:
+Martedì 10 novembre 2015
 
 Argomenti trattati oggi:
 * descrizione del corso
 * cenni di informatica di base:
-- processore, 
+** processore, 
 - codice macchina, 
 - istruzioni e dati, 
 - memoria,
