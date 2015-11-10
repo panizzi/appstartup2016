@@ -23,4 +23,4 @@ Durante il corso:
 * progetteremo una semplice app per iPhone, curandone però l'usabilità medianti semplici test con utenti
 * realizzeremo l'app e la prepareremo per la pubblicazione su App Store, che sarà effettuata dopo il termine del corso dal team del laboratorio SapienzaApps del Prof. Panizzi
 
-Il repository GitHub è 
+Il repository GitHub è https://github.com/panizzi/appstartup2016/
